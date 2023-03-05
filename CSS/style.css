@@ -47,3 +47,31 @@
   text-align: left;
   color: #000000;
 }
+.text-1 {
+  position: absolute;
+  width: 568px;
+  height: 108px;
+  left: 136px;
+  top: 177px;
+}
+.text-1 p {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 150%;
+}
+.text-2 {
+  position: absolute;
+  width: 468px;
+  height: 60px;
+  left: 136px;
+  top: 301px;
+}
+.text-2 p {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+}
