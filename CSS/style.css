@@ -3,6 +3,13 @@
   margin: 0;
   padding: 0;
 }
+.main-content {
+  height: 3226px;
+  width: 1440px;
+  left: 1022px;
+  top: -1189px;
+  border-radius: 0px;
+}
 .hero-section {
   position: absolute;
   width: 1440px;
@@ -99,4 +106,22 @@ button a {
   letter-spacing: 0em;
   text-align: left;
   color: white;
+}
+
+/* style img car */
+.img-bg {
+  position: absolute;
+  height: 407px;
+  width: 704px;
+  left: 736px;
+  top: 97px;
+}
+.bg {
+  position: absolute;
+  width: 704px;
+  height: 243px;
+  left: 736px;
+  top: 261px;
+  background: #0d28a6;
+  border-radius: 60px 0px 0px 0px;
 }
