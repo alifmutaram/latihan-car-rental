@@ -11,6 +11,7 @@
   top: 0px;
   background-color: #f1f3ff;
 }
+/* style header nav */
 .header-nav {
   position: absolute;
   width: 1055px;
@@ -47,6 +48,8 @@
   text-align: left;
   color: #000000;
 }
+
+/* style text */
 .text-1 {
   position: absolute;
   width: 568px;
@@ -74,4 +77,26 @@
   font-weight: 700;
   font-size: 14px;
   line-height: 20px;
+}
+
+/* style button */
+button {
+  position: absolute;
+  width: 140px;
+  height: 36px;
+  left: 136px;
+  top: 377px;
+  background-color: #5cb85f;
+  border: #5cb85f;
+}
+button a {
+  width: 116px;
+  height: 20px;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
 }
